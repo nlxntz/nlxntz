@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://media.giphy.com/media/LmNn8PqR0mY9W8i10C/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/LmNn8PqR0mY9W8i10C/giphy.gif" width="150" alt="GIF de un programador animado" />
 <h1>¡Hola! Soy Nicolás 👋</h1>
 </div>
 
 👨‍💻 Sobre Mí
+
 Soy Estudiante de Ingeniería en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
 
 🛠️ Tecnologías y Herramientas
@@ -30,6 +31,7 @@ Backend
 </div>
 
 🎓 Certificados y Cursos
+
 He completado los siguientes cursos y certificaciones, que me han proporcionado una base sólida en el desarrollo de software y la gestión de proyectos:
 
 Certificado en Desarrollador Full Stack
