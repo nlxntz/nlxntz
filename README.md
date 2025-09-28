@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://media.giphy.com/media/LmNn8PqR0mY9W8i10C/giphy.gif" width="150" alt="GIF de un programador animado" />
 <h1>¡Hola! Soy Nicolás 👋</h1>
 </div>
 
@@ -12,6 +11,7 @@ Aquí están las tecnologías y lenguajes de programación con los que he trabaj
 
 Frontend
 
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
@@ -22,6 +22,7 @@ Frontend
 
 Backend
 
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 <img width="12" />
@@ -31,6 +32,7 @@ Backend
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
+
 
 🎓 Certificados y Cursos
 
@@ -49,6 +51,7 @@ Certificado en Diseño Ágil de Sistemas
 Certificado en Innovación y Emprendimiento
 
 Certificado en Soporte Computacional
+
 
 
 🎯 Mis Objetivos
