@@ -11,6 +11,7 @@ Soy Estudiante de Ingeniería en Informática con un gran interés en el desarro
 Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
 
 Frontend
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
@@ -20,6 +21,7 @@ Frontend
 </div>
 
 Backend
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 <img width="12" />
@@ -48,19 +50,19 @@ Certificado en Innovación y Emprendimiento
 
 Certificado en Soporte Computacional
 
+
 🎯 Mis Objetivos
+
 Actualmente aprendiendo: Estoy profundizando en la arquitectura de microservicios para crear sistemas más robustos.
 
-Meta a corto plazo: Me gustaría contribuir a un proyecto de código abierto para seguir aprendiendo de la comunidad.
-
-Dato curioso: ¡Soy un gran fan de los videojuegos de estrategia! 🎮
 
 📈 Estadísticas de GitHub
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark" alt="Estadísticas de Nicolás en GitHub" />
 </div>
 
-📧 Contáctame
+<div align="center">📧 Contáctame</div>
 <div align="center">
 <a href="https://www.linkedin.com/in/nicoláslintz/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
