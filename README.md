@@ -4,28 +4,51 @@
 </div>
 
 💻 Sobre Mí
-Soy un Ingeniero en Informática con un gran interés en el desarrollo Full Stack. Me gusta crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
+Soy Estudiante de Ingeniería en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
 
 🛠️ Tecnologías y Herramientas
-Estas son algunas de las herramientas y tecnologías con las que trabajo:
+Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
 
-<div align="left">
+Frontend
+
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+
+
+Backend
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+
+🎓 Certificados y Cursos
+He completado los siguientes cursos y certificaciones, que me han proporcionado una base sólida en el desarrollo de software y la gestión de proyectos:
+
+Certificado en Desarrollador Full Stack
+
+Certificado en Arquitectura Cloud
+
+Certificado en Desarrollo de Aplicaciones Básicas
+
+Certificado en Diseño y Gestión de Base de Datos
+
+Certificado en Diseño Ágil de Sistemas
+
+Certificado en Innovación y Emprendimiento
+
+Certificado en Soporte Computacional
 
 🎯 Mis Objetivos
 Actualmente aprendiendo: Estoy profundizando en la arquitectura de microservicios para crear sistemas más robustos.
@@ -39,14 +62,14 @@ Dato curioso: ¡Soy un gran fan de los videojuegos de estrategia! 🎮
 <img src="https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=dark" alt="Estadísticas de Nicolás en GitHub" />
 </div>
 
-Reemplaza tunombredeusuario con tu nombre de usuario de GitHub.
+Reemplaza tunombredeusuario con tu nombre de usuario de GitHub para que muestre tus estadísticas personales.
 
 📫 Contáctame
 <div align="center">
-<a href="https://www.linkedin.com/in/tuperfil-linkedin/">
+<a href="https://www.linkedin.com/in/nicoláslintz/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:tuemail@ejemplo.com">
+<a href="mailto:lintznicolas2@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </div>
