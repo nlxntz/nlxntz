@@ -1,37 +1,33 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgM48e9j157yU/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/qgM48e9j157yU/giphy.gif" width="150" alt="GIF de un personaje programando" />
 <h1>¡Hola! Soy Nicolás 👋</h1>
 </div>
 
-💻 Sobre Mí
+👨‍💻 Sobre Mí
 Soy Estudiante de Ingeniería en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
 
 🛠️ Tecnologías y Herramientas
 Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
 
 Frontend
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+</div>
 
 Backend
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+</div>
 
 🎓 Certificados y Cursos
 He completado los siguientes cursos y certificaciones, que me han proporcionado una base sólida en el desarrollo de software y la gestión de proyectos:
@@ -59,12 +55,10 @@ Dato curioso: ¡Soy un gran fan de los videojuegos de estrategia! 🎮
 
 📈 Estadísticas de GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=dark" alt="Estadísticas de Nicolás en GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark" alt="Estadísticas de Nicolás en GitHub" />
 </div>
 
-Reemplaza tunombredeusuario con tu nombre de usuario de GitHub para que muestre tus estadísticas personales.
-
-📫 Contáctame
+📧 Contáctame
 <div align="center">
 <a href="https://www.linkedin.com/in/nicoláslintz/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
