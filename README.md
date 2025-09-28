@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/qgM48e9j157yU/giphy.gif" width="150" alt="GIF de un personaje programando" />
+<img src="https://media.giphy.com/media/LmNn8PqR0mY9W8i10C/giphy.gif" width="150" />
 <h1>¡Hola! Soy Nicolás 👋</h1>
 </div>
 
