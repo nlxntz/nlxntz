@@ -7,7 +7,8 @@
 Soy Estudiante de Ingeniería en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
 
 🛠️ Tecnologías y Herramientas
-#Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
+
+Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
 
 Frontend
 
