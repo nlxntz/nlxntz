@@ -10,7 +10,7 @@ Soy Estudiante de Ingeniería en Informática con un gran interés en el desarro
 
 Aquí están las tecnologías y lenguajes de programación con los que he trabajado:
 
-Frontend
+Frontend:
 
 
 <div align="left">
@@ -21,7 +21,7 @@ Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
 </div>
 
-Backend
+Backend:
 
 
 <div align="left">
@@ -68,7 +68,7 @@ Actualmente aprendiendo: Estoy profundizando en la arquitectura de microservicio
 
 <div align="center">📧 Contáctame</div>
 <div align="center">
-<a href="https://www.linkedin.com/in/nicoláslintz/">
+<a href="https://www.linkedin.com/in/nicolaslintzb/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:lintznicolas2@gmail.com">
