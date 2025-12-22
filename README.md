@@ -4,7 +4,7 @@
 
 👨‍💻 Sobre Mí
 
-Soy Estudiante de Ingeniería en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
+Soy Ingeniero en Informática con un gran interés en el desarrollo Full Stack. Me apasiona crear soluciones eficientes y escalables, y siempre estoy buscando nuevas tecnologías para mejorar mis habilidades.
 
 🛠️ Tecnologías y Herramientas
 
@@ -21,6 +21,7 @@ Frontend:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
 </div>
 
+
 Backend:
 
 
@@ -33,6 +34,7 @@ Backend:
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
+
 
 
 🎓 Certificados y Cursos
