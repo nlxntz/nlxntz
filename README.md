@@ -12,8 +12,6 @@
 
 Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fuerte interés en la construcción de soluciones **escalables, mantenibles y alineadas a buenas prácticas de ingeniería**.
 
-He participado en el desarrollo de aplicaciones web completas, abordando tanto la capa de presentación como la lógica de negocio y la persistencia de datos. Me caracterizo por una mentalidad analítica, aprendizaje continuo y capacidad para adaptarme a distintos entornos tecnológicos.
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
