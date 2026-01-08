@@ -1,20 +1,20 @@
 <div align="center">
   <h1>Hola, soy Nicolás 👋</h1>
   <p>
-    <a href="https://lintz.cl" target="_blank"><strong>🌐 Portafolio: lintz.cl</strong></a>
+    <a href="https://lintz.cl" target="_blank"><strong> Portafolio: lintz.cl</strong></a>
   </p>
-  <p><strong>Ingeniero en Informática | Full Stack Developer</strong></p>
+  <p><strong>Ingeniero en Informática</strong></p>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fuerte interés en la construcción de soluciones **escalables, mantenibles y alineadas a buenas prácticas de ingeniería**.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Frontend
 <div align="left">
@@ -63,7 +63,7 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 ---
 
-## 🎓 Certificados y cursos
+## Certificados y cursos
 
 - Desarrollador Full Stack  
 - Arquitectura Cloud  
@@ -75,7 +75,7 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 ---
 
-## 🎯 Objetivos profesionales
+## Objetivos profesionales
 
 - Profundizar en **arquitecturas modernas**, especialmente microservicios y sistemas distribuidos.  
 - Fortalecer competencias en **cloud, virtualización y seguridad informática**.  
@@ -83,7 +83,7 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark" />
@@ -91,7 +91,7 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 ---
 
-## 📧 Contacto
+## Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolaslintzb/">
