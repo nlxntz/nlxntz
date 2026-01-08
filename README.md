@@ -87,7 +87,8 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark&hide_title=true&hide=issues&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark&hide_title=true&hide=issues&count_private=true&cache_seconds=86400
+"
     height="170"
   />
   <img
