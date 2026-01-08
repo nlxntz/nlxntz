@@ -87,13 +87,8 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark&hide_title=true&hide=issues&count_private=true&cache_seconds=86400
-"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlxntz&layout=compact&theme=dark&langs_count=8"
-    height="170"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/nlxntz"
+    alt="GitHub Stats de Nicolás"
   />
 </div>
 
