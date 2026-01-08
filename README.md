@@ -86,7 +86,7 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nlxntz?theme=dark" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nlxntz?theme=dark&include_all_commits=true" />
 </div>
 
 ---
