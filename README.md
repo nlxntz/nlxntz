@@ -86,7 +86,15 @@ Soy Ingeniero en Informática, con enfoque en desarrollo **Full Stack** y un fue
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nlxntz&show_icons=true&theme=dark&hide_title=true&hide=issues&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlxntz&layout=compact&theme=dark&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nlxntz&theme=dark" />
 </div>
 
 ---
